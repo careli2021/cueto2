@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h1>SOY LOES 2025</h1>
+<h1>SOY LOES 2026</h1>
 
 </body>
 </html>
